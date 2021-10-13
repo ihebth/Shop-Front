@@ -8,15 +8,41 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~42.0.1",
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.11",
+    "@react-navigation/material-top-tabs": "^5.3.15",
+    "@react-navigation/stack": "^5.14.5",
+    "axios": "^0.21.1",
+    "expo": "~42.0.3",
+    "expo-image-picker": "^10.2.2",
     "expo-status-bar": "~1.0.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "jwt-decode": "^3.1.2",
+    "native-base": "^2.13.14",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-keyboard-aware-scroll-view": "^0.9.4",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-swipe-list-view": "^3.2.9",
+    "react-native-swiper": "^1.6.0",
+    "react-native-tab-view": "^3.0.1",
+    "react-native-toast-message": "^1.4.9",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-web": "~0.17.1",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.14.8"
   },
   "private": true
 }
